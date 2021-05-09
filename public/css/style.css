@@ -1,0 +1,12 @@
+#map {
+    width: 100vw;
+    height: 100vh;
+}
+
+body {
+    margin: 0
+}
+
+.mapboxgl-popup-content {
+    padding: 2em 1em 1em 1em;
+}
